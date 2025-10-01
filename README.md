@@ -13,3 +13,5 @@
   - Rename the current branch
 - git push -u origin main
   - sets the upstream of the push to be origin main
+- git checkout -b branch-name
+  - Creates new branch annd checkout to it
