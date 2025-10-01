@@ -19,3 +19,6 @@
     - pulls the latest changes from remote main to local main
 - git branch -d branch-name 
   - deletes the branch
+- git reset --hard commit-sha 
+    - All the changes after that commit are gone
+<!-- Need more clarity on git log-->
