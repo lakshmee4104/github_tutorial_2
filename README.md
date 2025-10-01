@@ -15,3 +15,7 @@
   - sets the upstream of the push to be origin main
 - git checkout -b branch-name
   - Creates new branch annd checkout to it
+- git checkout main; git pull
+    - pulls the latest changes from remote main to local main
+- git branch -d branch-name 
+  - deletes the branch
